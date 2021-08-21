@@ -1,0 +1,5 @@
+httpx
+tabulate
+-e git+ssh://git@github.com/vphpersson/pyutils.git#egg=pyutils
+-e git+ssh://git@github.com/vphpersson/httpx_oauth.git#egg=httpx_oauth
+-e git+ssh://git@github.com/vphpersson/twitter_api.git#egg=twitter_api

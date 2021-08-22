@@ -2,7 +2,7 @@
 
 Perform "OSINT-y" actions using the Twitter API.
 
-Built upon my [twitter_api](https://github.com/vphpersson/twitter_api) library. The actions defined in its CLI component is used as a fallback, and can thus also be used via this program.
+Built upon my [twitter_api](https://github.com/vphpersson/twitter_api) library. The actions defined in its CLI component are used as fallbacks, and can thus also be used via this program.
 
 ## Actions
 
